@@ -1,2 +1,11 @@
-body {background-color: blue;}
-p {color: yellow;}
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+p {
+  color: yellow;
+}
